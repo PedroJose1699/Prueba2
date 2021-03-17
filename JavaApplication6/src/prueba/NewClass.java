@@ -10,5 +10,6 @@ package prueba;
  * @author pjdgs
  */
 public class NewClass {
+    //hola mundo
     
 }
